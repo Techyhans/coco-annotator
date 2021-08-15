@@ -56,6 +56,9 @@
     10. fork_front_right : 12
     11. fork_back_left :
     12. fork_back_right :
+5. Picture
+
+![](metadata/img_15.png)
 
 # Start Labelling
 1. Press `k` shortcut key to select keypoint
